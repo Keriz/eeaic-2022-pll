@@ -1,0 +1,825 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="43.56031mm"
+   height="26.014681mm"
+   viewBox="0 0 43.56031 26.014681"
+   version="1.1"
+   id="svg11572"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="pfd.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview11574"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.71713664"
+     inkscape:cx="71.813371"
+     inkscape:cy="533.37115"
+     inkscape:window-width="1284"
+     inkscape:window-height="1003"
+     inkscape:window-x="2140"
+     inkscape:window-y="343"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs11569" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-85.951522,-7.28459)">
+    <g
+       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g1290"
+       transform="matrix(0.00254,0,0,0.00254,-364.62967,-133.95973)">
+      <g
+         id="g1222" />
+      <g
+         style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:100;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         id="g1226">
+        <rect
+           x="183100"
+           y="62800"
+           width="3000"
+           height="3000"
+           rx="0.000000"
+           id="rect1224" />
+      </g>
+      <g
+         style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         id="g1288">
+        <path
+           d="m 183100,65300 h -1000"
+           id="path1228" />
+        <path
+           d="m 183100,65550 500,-250 -500,-250"
+           id="path1230" />
+        <text
+           x="183500"
+           y="65500"
+           textLength="460"
+           font-size="533.307px"
+           lengthAdjust="spacingAndGlyphs"
+           text-anchor="start"
+           opacity="0"
+           id="text1232">C</text>
+        <g
+           class="stroked-text"
+           id="g1238">
+          <desc
+             id="desc1234">C</desc>
+          <path
+             d="m 183853,65442 -19,19 -57,19 h -38 l -57,-19 -38,-38 -19,-38 -19,-76 v -57 l 19,-76 19,-38 38,-38 57,-20 h 38 l 57,20 19,19"
+             id="path1236" />
+        </g>
+        <text
+           x="182600"
+           y="65200"
+           textLength="440.94489"
+           font-size="533.307px"
+           lengthAdjust="spacingAndGlyphs"
+           text-anchor="middle"
+           opacity="0"
+           id="text1240">1</text>
+        <g
+           class="stroked-text"
+           id="g1248">
+          <desc
+             id="desc1242">1</desc>
+          <path
+             d="m 182714,65180 h -229"
+             id="path1244" />
+          <path
+             d="m 182600,65180 v -400 l -39,58 -38,38 -38,19"
+             id="path1246" />
+        </g>
+        <path
+           d="m 183100,63300 h -1000"
+           id="path1250" />
+        <text
+           x="183500"
+           y="63500"
+           textLength="460"
+           font-size="533.307px"
+           lengthAdjust="spacingAndGlyphs"
+           text-anchor="start"
+           opacity="0"
+           id="text1252">D</text>
+        <g
+           class="stroked-text"
+           id="g1258">
+          <desc
+             id="desc1254">D</desc>
+          <path
+             d="m 183625,63480 v -400 h 95 l 57,20 38,38 19,38 19,76 v 57 l -19,76 -19,38 -38,38 -57,19 h -95"
+             id="path1256" />
+        </g>
+        <text
+           x="182600"
+           y="63200"
+           textLength="440.94489"
+           font-size="533.307px"
+           lengthAdjust="spacingAndGlyphs"
+           text-anchor="middle"
+           opacity="0"
+           id="text1260">2</text>
+        <g
+           class="stroked-text"
+           id="g1266">
+          <desc
+             id="desc1262">2</desc>
+          <path
+             d="m 182485,62819 19,-19 38,-20 h 96 l 38,20 19,19 19,38 v 38 l -19,57 -229,228 h 248"
+             id="path1264" />
+        </g>
+        <path
+           d="m 186100,63300 h 1000"
+           id="path1268" />
+        <text
+           x="185700"
+           y="63500"
+           textLength="479.05511"
+           font-size="533.307px"
+           lengthAdjust="spacingAndGlyphs"
+           text-anchor="end"
+           opacity="0"
+           id="text1270">Q</text>
+        <g
+           class="stroked-text"
+           id="g1278">
+          <desc
+             id="desc1272">Q</desc>
+          <path
+             d="m 185612,63519 -38,-19 -38,-39 -57,-57 -38,-19 h -38"
+             id="path1274" />
+          <path
+             d="m 185422,63480 -38,-19 -38,-38 -19,-76 v -133 l 19,-76 38,-38 38,-20 h 76 l 38,20 38,38 19,76 v 133 l -19,76 -38,38 -38,19 h -76"
+             id="path1276" />
+        </g>
+        <text
+           x="186600"
+           y="63200"
+           textLength="440.94489"
+           font-size="533.307px"
+           lengthAdjust="spacingAndGlyphs"
+           text-anchor="middle"
+           opacity="0"
+           id="text1280">7</text>
+        <g
+           class="stroked-text"
+           id="g1286">
+          <desc
+             id="desc1282">7</desc>
+          <path
+             d="m 186466,62780 h 267 l -172,400"
+             id="path1284" />
+        </g>
+      </g>
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g1624"
+       transform="matrix(0.00254,0,0,0.00254,-364.62967,-133.95973)">
+      <g
+         id="g1556" />
+      <g
+         style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:100;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         id="g1560">
+        <rect
+           x="183100"
+           y="55800"
+           width="3000"
+           height="3000"
+           rx="0.000000"
+           id="rect1558" />
+      </g>
+      <g
+         style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         id="g1622">
+        <path
+           d="m 183100,58300 h -1000"
+           id="path1562" />
+        <path
+           d="m 183100,58550 500,-250 -500,-250"
+           id="path1564" />
+        <text
+           x="183500"
+           y="58500"
+           textLength="460"
+           font-size="533.307px"
+           lengthAdjust="spacingAndGlyphs"
+           text-anchor="start"
+           opacity="0"
+           id="text1566">C</text>
+        <g
+           class="stroked-text"
+           id="g1572">
+          <desc
+             id="desc1568">C</desc>
+          <path
+             d="m 183853,58442 -19,19 -57,19 h -38 l -57,-19 -38,-38 -19,-38 -19,-76 v -57 l 19,-76 19,-38 38,-38 57,-20 h 38 l 57,20 19,19"
+             id="path1570" />
+        </g>
+        <text
+           x="182600"
+           y="58200"
+           textLength="440.94489"
+           font-size="533.307px"
+           lengthAdjust="spacingAndGlyphs"
+           text-anchor="middle"
+           opacity="0"
+           id="text1574">1</text>
+        <g
+           class="stroked-text"
+           id="g1582">
+          <desc
+             id="desc1576">1</desc>
+          <path
+             d="m 182714,58180 h -229"
+             id="path1578" />
+          <path
+             d="m 182600,58180 v -400 l -39,58 -38,38 -38,19"
+             id="path1580" />
+        </g>
+        <path
+           d="m 183100,56300 h -1000"
+           id="path1584" />
+        <text
+           x="183500"
+           y="56500"
+           textLength="460"
+           font-size="533.307px"
+           lengthAdjust="spacingAndGlyphs"
+           text-anchor="start"
+           opacity="0"
+           id="text1586">D</text>
+        <g
+           class="stroked-text"
+           id="g1592">
+          <desc
+             id="desc1588">D</desc>
+          <path
+             d="m 183625,56480 v -400 h 95 l 57,20 38,38 19,38 19,76 v 57 l -19,76 -19,38 -38,38 -57,19 h -95"
+             id="path1590" />
+        </g>
+        <text
+           x="182600"
+           y="56200"
+           textLength="440.94489"
+           font-size="533.307px"
+           lengthAdjust="spacingAndGlyphs"
+           text-anchor="middle"
+           opacity="0"
+           id="text1594">2</text>
+        <g
+           class="stroked-text"
+           id="g1600">
+          <desc
+             id="desc1596">2</desc>
+          <path
+             d="m 182485,55819 19,-19 38,-20 h 96 l 38,20 19,19 19,38 v 38 l -19,57 -229,228 h 248"
+             id="path1598" />
+        </g>
+        <path
+           d="m 186100,56300 h 1000"
+           id="path1602" />
+        <text
+           x="185700"
+           y="56500"
+           textLength="479.05511"
+           font-size="533.307px"
+           lengthAdjust="spacingAndGlyphs"
+           text-anchor="end"
+           opacity="0"
+           id="text1604">Q</text>
+        <g
+           class="stroked-text"
+           id="g1612">
+          <desc
+             id="desc1606">Q</desc>
+          <path
+             d="m 185612,56519 -38,-19 -38,-39 -57,-57 -38,-19 h -38"
+             id="path1608" />
+          <path
+             d="m 185422,56480 -38,-19 -38,-38 -19,-76 v -133 l 19,-76 38,-38 38,-20 h 76 l 38,20 38,38 19,76 v 133 l -19,76 -38,38 -38,19 h -76"
+             id="path1610" />
+        </g>
+        <text
+           x="186600"
+           y="56200"
+           textLength="440.94489"
+           font-size="533.307px"
+           lengthAdjust="spacingAndGlyphs"
+           text-anchor="middle"
+           opacity="0"
+           id="text1614">7</text>
+        <g
+           class="stroked-text"
+           id="g1620">
+          <desc
+             id="desc1616">7</desc>
+          <path
+             d="m 186466,55780 h 267 l -172,400"
+             id="path1618" />
+        </g>
+      </g>
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g1810"
+       transform="matrix(0.00254,0,0,0.00254,-364.62967,-133.95973)">
+      <g
+         id="g1768" />
+      <g
+         style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:100;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         id="g1774">
+        <path
+           d="m 187098.25,59800.002 a 1000,1000 0 0 0 0,1999.996"
+           id="path1770" />
+        <path
+           style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:100;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           d="m 187100,59800 h 1500 v 2000 h -1500"
+           id="path1772" />
+      </g>
+      <g
+         style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         id="g1808">
+        <path
+           d="m 188600,61300 h 1500"
+           id="path1776" />
+        <text
+           x="189350"
+           y="61200"
+           textLength="440.94489"
+           font-size="533.307px"
+           lengthAdjust="spacingAndGlyphs"
+           text-anchor="middle"
+           opacity="0"
+           id="text1778">1</text>
+        <g
+           class="stroked-text"
+           id="g1786">
+          <desc
+             id="desc1780">1</desc>
+          <path
+             d="m 189464,61180 h -229"
+             id="path1782" />
+          <path
+             d="m 189350,61180 v -400 l -39,58 -38,38 -38,19"
+             id="path1784" />
+        </g>
+        <path
+           d="m 188600,60300 h 1500"
+           id="path1788" />
+        <text
+           x="189350"
+           y="60200"
+           textLength="440.94489"
+           font-size="533.307px"
+           lengthAdjust="spacingAndGlyphs"
+           text-anchor="middle"
+           opacity="0"
+           id="text1790">2</text>
+        <g
+           class="stroked-text"
+           id="g1796">
+          <desc
+             id="desc1792">2</desc>
+          <path
+             d="m 189235,59819 19,-19 38,-20 h 96 l 38,20 19,19 19,38 v 38 l -19,57 -229,228 h 248"
+             id="path1794" />
+        </g>
+        <path
+           d="m 186100,60800 h -1500"
+           id="path1798" />
+        <text
+           x="185350"
+           y="60700"
+           textLength="440.94489"
+           font-size="533.307px"
+           lengthAdjust="spacingAndGlyphs"
+           text-anchor="middle"
+           opacity="0"
+           id="text1800">7</text>
+        <g
+           class="stroked-text"
+           id="g1806">
+          <desc
+             id="desc1802">7</desc>
+          <path
+             d="m 185216,60280 h 267 l -172,400"
+             id="path1804" />
+        </g>
+      </g>
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g5434"
+       transform="matrix(0.00254,0,0,0.00254,-364.62967,-133.95973)">
+      <text
+         x="192787.52"
+         y="63585.746"
+         textLength="1038.7008"
+         font-size="666.654px"
+         lengthAdjust="spacingAndGlyphs"
+         text-anchor="start"
+         opacity="0"
+         id="text5418">Qb</text>
+      <g
+         class="stroked-text"
+         id="g5430">
+        <desc
+           id="desc5420">Qb</desc>
+        <path
+           d="m 193269,63609 -47,-24 -48,-47 -71,-72 -48,-24 h -48"
+           id="path5422" />
+        <path
+           d="m 193031,63561 -47,-23 -48,-48 -24,-95 v -167 l 24,-95 48,-48 47,-24 h 96 l 47,24 48,48 24,95 v 167 l -24,95 -48,48 -47,23 h -96"
+           id="path5424" />
+        <path
+           d="m 193460,63561 v -500"
+           id="path5426" />
+        <path
+           d="m 193460,63252 47,-24 h 96 l 47,24 24,24 24,47 v 143 l -24,48 -24,24 -47,23 h -96 l -47,-23"
+           id="path5428" />
+      </g>
+      <path
+         style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         d="m 192600,63300 v 500.157 h 1476.38 l 437.52,-500.157 -437.52,-500.157 H 192600 Z"
+         id="path5432" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g5482"
+       transform="matrix(0.00254,0,0,0.00254,-364.62967,-133.95973)">
+      <text
+         x="192787.52"
+         y="56585.746"
+         textLength="1038.7008"
+         font-size="666.654px"
+         lengthAdjust="spacingAndGlyphs"
+         text-anchor="start"
+         opacity="0"
+         id="text5466">Qa</text>
+      <g
+         class="stroked-text"
+         id="g5478">
+        <desc
+           id="desc5468">Qa</desc>
+        <path
+           d="m 193269,56609 -47,-24 -48,-47 -71,-72 -48,-24 h -48"
+           id="path5470" />
+        <path
+           d="m 193031,56561 -47,-23 -48,-48 -24,-95 v -167 l 24,-95 48,-48 47,-24 h 96 l 47,24 48,48 24,95 v 167 l -24,95 -48,48 -47,23 h -96"
+           id="path5472" />
+        <path
+           d="m 193674,56561 v -261 l -24,-48 -47,-24 h -96 l -47,24"
+           id="path5474" />
+        <path
+           d="m 193674,56538 -47,23 h -120 l -47,-23 -24,-48 v -48 l 24,-47 47,-24 h 120 l 47,-24"
+           id="path5476" />
+      </g>
+      <path
+         style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         d="m 192600,56300 v 500.157 h 1476.38 l 437.52,-500.157 -437.52,-500.157 H 192600 Z"
+         id="path5480" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g5524"
+       transform="matrix(0.00254,0,0,0.00254,-364.62967,-133.95973)">
+      <text
+         x="180037.48"
+         y="63585.746"
+         textLength="2300.6299"
+         font-size="666.654px"
+         lengthAdjust="spacingAndGlyphs"
+         text-anchor="end"
+         opacity="0"
+         id="text5502">+1.2V</text>
+      <g
+         class="stroked-text"
+         id="g5520">
+        <desc
+           id="desc5504">+1.2V</desc>
+        <path
+           d="m 177888,63371 h 381"
+           id="path5506" />
+        <path
+           d="m 178078,63561 v -381"
+           id="path5508" />
+        <path
+           d="m 178769,63561 h -286"
+           id="path5510" />
+        <path
+           d="m 178626,63561 v -500 l -48,72 -47,47 -48,24"
+           id="path5512" />
+        <path
+           d="m 178983,63514 24,24 -24,23 -24,-23 24,-24 v 47"
+           id="path5514" />
+        <path
+           d="m 179197,63109 24,-24 48,-24 h 119 l 48,24 23,24 24,48 v 47 l -24,72 -285,285 h 309"
+           id="path5516" />
+        <path
+           d="m 179626,63061 167,500 166,-500"
+           id="path5518" />
+      </g>
+      <path
+         style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         d="m 180600,63300 -437.52,-500.157 h -2738.31 v 500.157 500.157 h 2738.31 z"
+         id="path5522" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g5574"
+       transform="matrix(0.00254,0,0,0.00254,-364.62967,-133.95973)">
+      <text
+         x="180037.48"
+         y="56585.746"
+         textLength="2300.6299"
+         font-size="666.654px"
+         lengthAdjust="spacingAndGlyphs"
+         text-anchor="end"
+         opacity="0"
+         id="text5552">+1.2V</text>
+      <g
+         class="stroked-text"
+         id="g5570">
+        <desc
+           id="desc5554">+1.2V</desc>
+        <path
+           d="m 177888,56371 h 381"
+           id="path5556" />
+        <path
+           d="m 178078,56561 v -381"
+           id="path5558" />
+        <path
+           d="m 178769,56561 h -286"
+           id="path5560" />
+        <path
+           d="m 178626,56561 v -500 l -48,72 -47,47 -48,24"
+           id="path5562" />
+        <path
+           d="m 178983,56514 24,24 -24,23 -24,-23 24,-24 v 47"
+           id="path5564" />
+        <path
+           d="m 179197,56109 24,-24 48,-24 h 119 l 48,24 23,24 24,48 v 47 l -24,72 -285,285 h 309"
+           id="path5566" />
+        <path
+           d="m 179626,56061 167,500 166,-500"
+           id="path5568" />
+      </g>
+      <path
+         style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         d="m 180600,56300 -437.52,-500.157 h -2738.31 v 500.157 500.157 h 2738.31 z"
+         id="path5572" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g5818"
+       transform="matrix(0.00254,0,0,0.00254,-364.62967,-133.95973)">
+      <text
+         x="188100"
+         y="63162.48"
+         textLength="1036.1812"
+         font-size="666.654px"
+         lengthAdjust="spacingAndGlyphs"
+         text-anchor="start"
+         opacity="0"
+         id="text5804">Qb</text>
+      <g
+         class="stroked-text"
+         id="g5816">
+        <desc
+           id="desc5806">Qb</desc>
+        <path
+           d="m 188582,63186 -48,-24 -47,-48 -72,-71 -47,-24 h -48"
+           id="path5808" />
+        <path
+           d="m 188344,63138 -48,-24 -47,-47 -24,-96 v -166 l 24,-95 47,-48 48,-24 h 95 l 48,24 47,48 24,95 v 166 l -24,96 -47,47 -48,24 h -95"
+           id="path5810" />
+        <path
+           d="m 188772,63138 v -500"
+           id="path5812" />
+        <path
+           d="m 188772,62829 48,-24 h 95 l 48,24 24,23 23,48 v 143 l -23,48 -24,23 -48,24 h -95 l -48,-24"
+           id="path5814" />
+      </g>
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g5918"
+       transform="matrix(0.00254,0,0,0.00254,-364.62967,-133.95973)">
+      <text
+         x="178100"
+         y="65162.48"
+         textLength="2679.0552"
+         font-size="666.654px"
+         lengthAdjust="spacingAndGlyphs"
+         text-anchor="start"
+         opacity="0"
+         id="text5890">Clk_div</text>
+      <g
+         class="stroked-text"
+         id="g5916">
+        <desc
+           id="desc5892">Clk_div</desc>
+        <path
+           d="m 178534,65091 -24,23 -71,24 h -48 l -71,-24 -48,-47 -23,-48 -24,-95 v -72 l 24,-95 23,-47 48,-48 71,-24 h 48 l 71,24 24,24"
+           id="path5894" />
+        <path
+           d="m 178820,65138 -48,-24 -23,-47 v -429"
+           id="path5896" />
+        <path
+           d="m 179010,65138 v -500"
+           id="path5898" />
+        <path
+           d="m 179058,64948 143,190"
+           id="path5900" />
+        <path
+           d="m 179201,64805 -191,190"
+           id="path5902" />
+        <path
+           d="m 179296,65186 h 381"
+           id="path5904" />
+        <path
+           d="m 180010,65138 v -500"
+           id="path5906" />
+        <path
+           d="m 180010,65114 -47,24 h -95 l -48,-24 -24,-23 -24,-48 v -143 l 24,-48 24,-23 48,-24 h 95 l 47,24"
+           id="path5908" />
+        <path
+           d="m 180249,65138 v -333"
+           id="path5910" />
+        <path
+           d="m 180249,64638 -24,24 24,24 23,-24 -23,-24 v 48"
+           id="path5912" />
+        <path
+           d="m 180439,64805 119,333 119,-333"
+           id="path5914" />
+      </g>
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g5950"
+       transform="matrix(0.00254,0,0,0.00254,-364.62967,-133.95973)">
+      <text
+         x="178100"
+         y="58162.48"
+         textLength="2631.4172"
+         font-size="666.654px"
+         lengthAdjust="spacingAndGlyphs"
+         text-anchor="start"
+         opacity="0"
+         id="text5922">Clk_ref</text>
+      <g
+         class="stroked-text"
+         id="g5948">
+        <desc
+           id="desc5924">Clk_ref</desc>
+        <path
+           d="m 178534,58091 -24,23 -71,24 h -48 l -71,-24 -48,-47 -23,-48 -24,-95 v -72 l 24,-95 23,-47 48,-48 71,-24 h 48 l 71,24 24,24"
+           id="path5926" />
+        <path
+           d="m 178820,58138 -48,-24 -23,-47 v -429"
+           id="path5928" />
+        <path
+           d="m 179010,58138 v -500"
+           id="path5930" />
+        <path
+           d="m 179058,57948 143,190"
+           id="path5932" />
+        <path
+           d="m 179201,57805 -191,190"
+           id="path5934" />
+        <path
+           d="m 179296,58186 h 381"
+           id="path5936" />
+        <path
+           d="m 179796,58138 v -333"
+           id="path5938" />
+        <path
+           d="m 179796,57900 24,-48 24,-23 47,-24 h 48"
+           id="path5940" />
+        <path
+           d="m 180296,58114 -47,24 h -96 l -47,-24 -24,-47 v -191 l 24,-47 47,-24 h 96 l 47,24 24,47 v 48 l -238,47"
+           id="path5942" />
+        <path
+           d="m 180463,57805 h 190"
+           id="path5944" />
+        <path
+           d="m 180534,58138 v -428 l 24,-48 48,-24 h 47"
+           id="path5946" />
+      </g>
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g6022"
+       transform="matrix(0.00254,0,0,0.00254,-364.62967,-133.95973)">
+      <text
+         x="188100"
+         y="56162.48"
+         textLength="1036.1812"
+         font-size="666.654px"
+         lengthAdjust="spacingAndGlyphs"
+         text-anchor="start"
+         opacity="0"
+         id="text6008">Qa</text>
+      <g
+         class="stroked-text"
+         id="g6020">
+        <desc
+           id="desc6010">Qa</desc>
+        <path
+           d="m 188582,56186 -48,-24 -47,-48 -72,-71 -47,-24 h -48"
+           id="path6012" />
+        <path
+           d="m 188344,56138 -48,-24 -47,-47 -24,-96 v -166 l 24,-95 47,-48 48,-24 h 95 l 48,24 47,48 24,95 v 166 l -24,96 -47,47 -48,24 h -95"
+           id="path6014" />
+        <path
+           d="m 188987,56138 v -262 l -24,-47 -48,-24 h -95 l -48,24"
+           id="path6016" />
+        <path
+           d="m 188987,56114 -48,24 h -119 l -48,-24 -23,-47 v -48 l 23,-48 48,-23 h 119 l 48,-24"
+           id="path6018" />
+      </g>
+    </g>
+    <path
+       d="m 118.22433,26.82227 h 6.35"
+       id="path6776"
+       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.1524;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+    <path
+       d="m 110.60433,26.82227 h 7.62"
+       id="path6778"
+       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.1524;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+    <path
+       d="m 104.25433,25.55227 v -5.08"
+       id="path6780"
+       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.1524;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+    <path
+       d="m 87.74433,31.90227 h 10.16"
+       id="path6782"
+       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.1524;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+    <path
+       d="m 94.09433,26.82227 h 3.81"
+       id="path6784"
+       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.1524;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+    <path
+       d="m 118.22433,9.04227 h 6.35"
+       id="path6794"
+       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.1524;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+    <path
+       d="m 110.60433,9.04227 h 7.62"
+       id="path6796"
+       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.1524;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+    <path
+       d="m 104.25433,20.47227 v -5.08"
+       id="path6800"
+       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.1524;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+    <path
+       d="m 87.74433,14.12227 h 10.16"
+       id="path6802"
+       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.1524;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+    <path
+       d="m 94.09433,9.04227 h 3.81"
+       id="path6804"
+       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.1524;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+    <path
+       d="m 118.22433,19.20227 v -10.16"
+       id="path6812"
+       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.1524;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+    <path
+       d="m 118.22433,21.74227 v 5.08"
+       id="path6814"
+       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.1524;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+    <circle
+       cx="118.22433"
+       cy="26.822269"
+       r="0.45719999"
+       id="circle7168"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.1524;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+    <circle
+       cx="118.22433"
+       cy="9.0422697"
+       r="0.45719999"
+       id="circle7170"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.1524;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+    <circle
+       cx="104.25433"
+       cy="20.472269"
+       r="0.45719999"
+       id="circle7172"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.1524;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+  </g>
+</svg>
